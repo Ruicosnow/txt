@@ -107,6 +107,54 @@ NEWTV精品萌宠,http://39.134.64.87:6610/PLTV/88888888/224/3221226505/index.m3
 睛彩篮球,http://39.134.64.87:6610/PLTV/88888888/224/3221226147/index.m3u8?IASHttpSessionId=
 睛彩篮球,http://39.134.64.87:6610/PLTV/88888888/224/3221226469/index.m3u8?IASHttpSessionId=
 睛彩青少,http://39.134.64.87:6610/PLTV/88888888/224/3221226508/index.m3u8?IASHttpSessionId=
+🐼港台,#genre#
+凤凰中文,http://aktv-stream.m16tv.cfd/stream/aktv/null-3/AKTV.m3u8
+凤凰资讯,http://aktv-stream.m16tv.cfd/stream/aktv/null-4/AKTV.m3u8
+凤凰香港,http://aktv-stream.m16tv.cfd/stream/aktv/null-5/AKTV.m3u8
+翡翠台,http://aktv-stream.m16tv.cfd/stream/aktv/null/AKTV.m3u8
+翡翠台 4K,http://aktv-stream.m16tv.cfd/stream/aktv/4k/AKTV.m3u8
+翡翠综合台(北美),http://aktv-stream.m16tv.cfd/stream/aktv/null-17/AKTV.m3u8
+黄金翡翠台,http://aktv-stream.m16tv.cfd/stream/aktv/null-21/AKTV.m3u8
+明珠剧集台(北美),http://aktv-stream.m16tv.cfd/stream/aktv/null-19/AKTV.m3u8
+明珠台,http://aktv-stream.m16tv.cfd/stream/aktv/null-2/AKTV.m3u8
+无线新闻台,http://aktv-stream.m16tv.cfd/stream/aktv/null-1/AKTV.m3u8
+美亚电影台(HK),http://aktv-stream.m16tv.cfd/stream/aktv/hk-1/AKTV.m3u8
+翡翠剧集台(北美),http://aktv-stream.m16tv.cfd/stream/aktv/null-18/AKTV.m3u8
+AXN,http://aktv-stream.m16tv.cfd/stream/aktv2/axn/AKTV.m3u8
+中天新闻台,http://aktv-stream.m16tv.cfd/stream/aktv/null-6/AKTV.m3u8
+千禧经典台(HK),http://aktv-stream.m16tv.cfd/stream/aktv/null-15/AKTV.m3u8
+娱乐新闻台(HK),http://aktv-stream.m16tv.cfd/stream/aktv/hk/AKTV.m3u8
+寰宇新闻台,http://aktv-stream.m16tv.cfd/stream/aktv/null-7/AKTV.m3u8
+Love Nature HD,http://aktv-stream.m16tv.cfd/stream/aktv2/lovenaturehd/AKTV.m3u8
+无线新闻台(北美),http://aktv-stream.m16tv.cfd/stream/aktv2/null-1/AKTV.m3u8
+东森新闻,http://aktv-stream.m16tv.cfd/stream/aktv2/null/AKTV.m3u8
+Channel 5 HD,http://aktv-stream.m16tv.cfd/stream/aktv/channel5hd/AKTV.m3u8
+Channel 8 HD,http://aktv-stream.m16tv.cfd/stream/aktv/channel8hd/AKTV.m3u8
+Channel U HD,http://aktv-stream.m16tv.cfd/stream/aktv/channeluhd/AKTV.m3u8
+myTV SUPER 18台,http://aktv-stream.m16tv.cfd/stream/aktv/mytvsuper18/AKTV.m3u8
+PopC,http://aktv-stream.m16tv.cfd/stream/aktv/popc/AKTV.m3u8
+ROCK Action,http://aktv-stream.m16tv.cfd/stream/aktv/rockaction/AKTV.m3u8
+TVB Plus,http://aktv-stream.m16tv.cfd/stream/aktv/tvbplus/AKTV.m3u8
+tvN,http://aktv-stream.m16tv.cfd/stream/aktv/tvn/AKTV.m3u8
+Animax(HK),http://aktv-stream.m16tv.cfd/stream/aktv3/animaxhk/AKTV.m3u8
+DW,http://aktv-stream.m16tv.cfd/stream/aktv3/dw/AKTV.m3u8
+France 24,http://aktv-stream.m16tv.cfd/stream/aktv3/france24/AKTV.m3u8
+KIX,http://aktv-stream.m16tv.cfd/stream/aktv3/kix/AKTV.m3u8
+NHK World-Japan,http://aktv-stream.m16tv.cfd/stream/aktv3/nhkworldjapan/AKTV.m3u8
+NHK东京総合,http://aktv-stream.m16tv.cfd/stream/aktv3/nhk/AKTV.m3u8
+Nick Jr,http://aktv-stream.m16tv.cfd/stream/aktv3/nickjr/AKTV.m3u8
+Nickelodeon,http://aktv-stream.m16tv.cfd/stream/aktv3/nickelodeon/AKTV.m3u8
+Thrill,http://aktv-stream.m16tv.cfd/stream/aktv3/thrill/AKTV.m3u8
+Xite Hits,http://aktv-stream.m16tv.cfd/stream/aktv3/xitehits/AKTV.m3u8
+Xite Rock,http://aktv-stream.m16tv.cfd/stream/aktv3/xiterock/AKTV.m3u8
+ZooMoo,http://aktv-stream.m16tv.cfd/stream/aktv3/zoomoo/AKTV.m3u8
+亚洲新闻台,http://aktv-stream.m16tv.cfd/stream/aktv3/null-3/AKTV.m3u8
+东方卫视国际频道,http://aktv-stream.m16tv.cfd/stream/aktv3/null/AKTV.m3u8
+无线卫星新闻台,http://aktv-stream.m16tv.cfd/stream/aktv3/null-2/AKTV.m3u8
+Celestial Movies,http://aktv-stream.m16tv.cfd/stream/astro_a1/celestialmovies/AKTV.m3u8
+CINEMAWORLD,http://aktv-stream.m16tv.cfd/stream/astro_a1/ch31/AKTV.m3u8
+TVB Plus,http://aktv-stream.m16tv.cfd/stream/aktv/tvbplus/AKTV.m3u8
+
 睛彩广场舞,http://39.134.64.87:6610/PLTV/88888888/224/3221226472/index.m3u8?IASHttpSessionId=
 咪咕视频,http://39.134.64.87:6610/PLTV/88888888/224/3221226398/index.m3u8?IASHttpSessionId=
 纪实科教,http://39.134.64.87:6610/PLTV/88888888/224/3221225729/index.m3u8?IASHttpSessionId=
