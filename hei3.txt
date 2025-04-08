@@ -107,6 +107,9 @@ NEWTV精品萌宠,http://39.134.64.87:6610/PLTV/88888888/224/3221226505/index.m3
 睛彩篮球,http://39.134.64.87:6610/PLTV/88888888/224/3221226147/index.m3u8?IASHttpSessionId=
 睛彩篮球,http://39.134.64.87:6610/PLTV/88888888/224/3221226469/index.m3u8?IASHttpSessionId=
 睛彩青少,http://39.134.64.87:6610/PLTV/88888888/224/3221226508/index.m3u8?IASHttpSessionId=
+睛彩广场舞,http://39.134.64.87:6610/PLTV/88888888/224/3221226472/index.m3u8?IASHttpSessionId=
+咪咕视频,http://39.134.64.87:6610/PLTV/88888888/224/3221226398/index.m3u8?IASHttpSessionId=
+纪实科教,http://39.134.64.87:6610/PLTV/88888888/224/3221225729/index.m3u8?IASHttpSessionId=
 🐼港台,#genre#
 凤凰中文,http://aktv-stream.m16tv.cfd/stream/aktv/null-3/AKTV.m3u8
 凤凰资讯,http://aktv-stream.m16tv.cfd/stream/aktv/null-4/AKTV.m3u8
@@ -155,6 +158,3 @@ Celestial Movies,http://aktv-stream.m16tv.cfd/stream/astro_a1/celestialmovies/AK
 CINEMAWORLD,http://aktv-stream.m16tv.cfd/stream/astro_a1/ch31/AKTV.m3u8
 TVB Plus,http://aktv-stream.m16tv.cfd/stream/aktv/tvbplus/AKTV.m3u8
 
-睛彩广场舞,http://39.134.64.87:6610/PLTV/88888888/224/3221226472/index.m3u8?IASHttpSessionId=
-咪咕视频,http://39.134.64.87:6610/PLTV/88888888/224/3221226398/index.m3u8?IASHttpSessionId=
-纪实科教,http://39.134.64.87:6610/PLTV/88888888/224/3221225729/index.m3u8?IASHttpSessionId=
