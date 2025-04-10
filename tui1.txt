@@ -17,9 +17,6 @@ CCTV14,http://itv.iptv1688.top:2016/itv.php?id=CCTV14
 CCTV15,http://itv.iptv1688.top:2016/itv.php?id=CCTV15
 CCTV16,http://itv.iptv1688.top:2016/itv.php?id=CCTV16
 CCTV17,http://itv.iptv1688.top:2016/itv.php?id=CCTV17
-CHC家庭影院,http://107.174.52.32/itv.php?id=CHC家庭影院
-CHC影迷电影,http://107.174.52.32/itv.php?id=CHC影迷电影
-CHC动作电影,http://107.174.52.32/itv.php?id=CHC动作电影
 💓卫视,#genre#
 湖南卫视,http://itv.iptv1688.top:2016/itv.php?id=湖南卫视
 浙江卫视,http://itv.iptv1688.top:2016/itv.php?id=浙江卫视
