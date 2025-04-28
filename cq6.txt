@@ -26,10 +26,9 @@ CCTV14,http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctvseHD/
 CCTV15,http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv15HD/__op/default/__f/index.m3u8
 CCTV16,http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv16HD/__op/default/__f/index.m3u8
 CCTV17,http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv17HD/__op/default/__f/index.m3u8
-CHC高清电影,http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/chcgqdyHD/__op/default/__f/index.m3u8
+CHC影迷电影,http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/chcgqdyHD/__op/default/__f/index.m3u8
 CHC动作电影,http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/chcdzdyHD/__op/default/__f/index.m3u8
 CHC家庭影院,http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/chcjtyyHD/__op/default/__f/index.m3u8
-CCTV风云剧场,http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/shandongHD/__op/default/__f/index.m3u8
 CCTV风云剧场,http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/fyjcHD/__op/default/__f/index.m3u8
 CCTV风云音乐,http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/fyyyHD/__op/default/__f/index.m3u8
 CCTV风云足球,http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/fyzqHD/__op/default/__f/index.m3u8
@@ -39,7 +38,6 @@ CCTV兵器科技,http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c
 CCTV央视文化精品,http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/yswhHD/__op/default/__f/index.m3u8
 CCTV高尔夫网球,http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/golfHD/__op/default/__f/index.m3u8
 CCTV央视台球,http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/ystqHD/__op/default/__f/index.m3u8
-CCTV女性时尚,http://43.152.149.114:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/nvxing/__op/default/__f/index.m3u8
 卫视,#genre#
 东南卫视,http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/dongnanHD/__op/default/__f/index.m3u8
 东方卫视,http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/shanghaiHD/__op/default/__f/index.m3u8
