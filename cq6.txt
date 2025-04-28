@@ -81,7 +81,7 @@ CGTN,http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cgtnSD/__op
 百姓健康,http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/jiankangSD/__op/default/__f/index.m3u8
 快乐垂钓,http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/klcdHD/__op/default/__f/index.m3u8
 早期教育,http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/zaojiaoHD/__op/default/__f/index.m3u8
-东方财-经,http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/dfcj/__op/default/__f/index.m3u8
+东方财经,http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/dfcj/__op/default/__f/index.m3u8
 证券服务,http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/jiazheng/__op/default/__f/index.m3u8
 收藏天下,http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/soucang/__op/default/__f/index.m3u8
 财富天下,http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/caifu/__op/default/__f/index.m3u8
